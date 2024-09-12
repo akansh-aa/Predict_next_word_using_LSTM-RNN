@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/33bf2bc0-8a9c-40cc-a2ee-887e87533f2e)“LSTM (Long Short-Term Memory) is utilized for modeling long-term dependencies in sequential data or sequence of words , allowing it to capture and remember information over extended periods within a sequence.”
+“LSTM (Long Short-Term Memory) is utilized for modeling long-term dependencies in sequential data or sequence of words , allowing it to capture and remember information over extended periods within a sequence.”
 
 Why use LSTM?
 Vanishing gradient descend is a problem faced by neural networks when we go for backpropagation as discussed here. It has a huge effect and the weight update process is widely affected and the model became useless. So, we used LSTM which has a hidden state and a memory cell with three gates that are forgotten, read, and input gate.
